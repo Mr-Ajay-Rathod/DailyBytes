@@ -4,10 +4,6 @@
 
 ---
 
-###🔗 Live Link - https://thedailybytes.vercel.app/
-
----
-
 
 ## ✨ Overview
 
@@ -16,6 +12,11 @@
 The project is designed to demonstrate **end-to-end system design**, including backend APIs, database modeling, and frontend integration.
 
 ---
+
+## 🔗 Live Link - https://thedailybytes.vercel.app/
+
+---
+
 
 ## 🚀 Key Features
 
